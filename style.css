@@ -1,0 +1,84 @@
+body{
+    background-image: url('./images/background/vecteezy_abstract-simple-shape-fluid-shapes-memphis-style-background_7167441.jpg');
+    height: 100vh;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 4.5em;
+}
+
+.list-group{
+    width: 12em;
+    margin-left: 15em;
+    margin-top: 5em;
+}
+
+.aus{
+    text-decoration: none;
+    color: black;
+
+}
+
+.aus:hover{
+    text-decoration: underline;
+    color: gray;
+    background-color: yellow;
+}
+.wi{
+    text-decoration: none;
+    color: black;
+
+}
+
+.wi:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: red;
+}
+.ind{
+    text-decoration: none;
+    color: black;
+
+}
+
+.ind:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: lightblue;
+}
+.pak{
+    text-decoration: none;
+    color: black;
+
+}
+
+.pak:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: green;
+}
+
+.sl{
+    text-decoration: none;
+    color: black;
+
+}
+
+.sl:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: blue;
+}
+
+.eng{
+    text-decoration: none;
+    color: black;
+
+}
+
+.eng:hover{
+    text-decoration: underline;
+    color: white;
+    background-color: darkblue;
+}
