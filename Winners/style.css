@@ -1,5 +1,5 @@
 body{
-    background-image: url('./images/background/vecteezy_abstract-simple-shape-fluid-shapes-memphis-style-background_7167441.jpg');
+    background-image: url('../images/background/vecteezy_abstract-simple-shape-fluid-shapes-memphis-style-background_7167441.jpg');
     height: 100vh;
 }
 
@@ -81,4 +81,13 @@ body{
     text-decoration: underline;
     color: white;
     background-color: darkblue;
+}
+
+.worldcup{
+    margin-left: 30em;;
+    margin-bottom: 30em;;
+}
+.table2{
+    margin-left: 40em;
+    margin-top: -8em;
 }

@@ -1,0 +1,42 @@
+body{
+    /* background-image: url('../images/team.jpeg'); */
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+    backface-visibility: hidden;
+    background-repeat: no-repeat;
+    animation: slideBg 18s linear infinite 0s; 
+    animation-timing-function: ease-in-out;
+    background-image: url('../images/team.jpeg');
+}
+
+@keyframes slideBg {
+    0% {
+        background-image: url('../images/team.jpeg');
+    }
+    20% {
+        background-image: url('../images/vk.jpeg');
+    }
+    40% {
+        background-image: url('../images/pak.jpeg');
+    }
+    60% {
+        background-image: url('../images/ind.jpeg');
+    }
+    80% {
+        background-image: url('../images/gm.jpeg');
+    }
+    100% {
+        background-image: url('../images/1975.jpeg');
+    }
+}
+
+
+.header{
+    text-align: center;
+    margin-top: 5em;
+    color:antiquewhite;
+    font-size:7em;
+}
+
