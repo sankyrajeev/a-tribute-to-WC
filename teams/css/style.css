@@ -1,0 +1,30 @@
+body{
+    background-image: url('../../images/background/Simple\ Shiny.svg');
+    height: 100vh;
+}
+
+h2{
+    color:#330000
+}
+h1{
+    color:#330000
+
+}
+.top{
+    text-align: center;
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+.top{
+    margin-top: 2em;
+}
+
+.carousel{
+    margin-top:6em;;
+}
